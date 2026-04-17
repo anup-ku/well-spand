@@ -1,0 +1,5 @@
+wellspend-b/.env
+wellspend-f/.env
+
+wellspend-b/node_modules/
+wellspend-f/node_modules/
